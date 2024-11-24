@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m @Elhasmah
-## 😊 About Me
+😊 About Me
 - 👀 I’m interested in learning new stuff and staying updated
 - 🔭 i'm currently working on becoming a Web Developer.
 - 🌱 I’m currently learning HTML and Css as well building my knowledge on the use of Git and GitHub. Hoping to move on to JavaScript/React soon.
@@ -7,24 +7,23 @@
 - 📫 How to reach me: Email[aahmadmagaji@gmail.com] 
 - ⚡ Fun fact: I love exploring technology and solving real world problems with code.
 
-## 🛠 Skills & Tools
+🛠 Skills & Tools
 - **Languages**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, VS Code, Chrome DevTools
 
-## 🖇 Projects
+🖇 Projects
 Here are some of my recent projects
 - 
-
-## 🌍 Connect with Me
+🌍 Connect with Me
 - LinkedIn [Ahmad Abubakar magaji](https://WWW.LinkedIn.com/in/ahmad-abubakar-magaji-60676a246)
 - Twitter [] ()
 
-## 🎯 Goals for 2024
+🎯 Goals for 2024
 - Understand the fundamentals of HTML and CSS.
 - Grab fully the concept of responsive design.
 - Contribute to an open-source project.
 
-## ⚡ Pronouns
+⚡ Pronouns
 - He/Him
 
 <!---
